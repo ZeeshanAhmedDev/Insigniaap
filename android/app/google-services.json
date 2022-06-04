@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463377487751",
+    "project_id": "digitaez-office",
+    "storage_bucket": "digitaez-office.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463377487751:android:179d9bca94fe26476aa522",
+        "android_client_info": {
+          "package_name": "com.digitaez.Insigniapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463377487751-v0ou13ln04poe8i03ks0pft7pankimai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZGviytWYmTdqcfsl4I0ApaiSbxkczAdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463377487751-v0ou13ln04poe8i03ks0pft7pankimai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

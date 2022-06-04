@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#73BBA2"/>
+      <stop offset="1" stop-color="#7AC060"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_106" data-name="Group 106" transform="translate(-306 -192)">
+    <rect id="Rectangle_105" data-name="Rectangle 105" width="30" height="30" rx="10" transform="translate(306 192)" fill="url(#linear-gradient)"/>
+    <g id="vuesax_outline_arrow-right" data-name="vuesax/outline/arrow-right" transform="translate(15.5 -51)">
+      <g id="arrow-right" transform="translate(300 252)">
+        <path id="Vector" d="M.374,8.669a.371.371,0,0,1-.265-.11.377.377,0,0,1,0-.53l3.26-3.26a.616.616,0,0,0,0-.87L.109.639a.375.375,0,0,1,.53-.53L3.9,3.369a1.362,1.362,0,0,1,.4.965,1.341,1.341,0,0,1-.4.965L.639,8.559A.393.393,0,0,1,.374,8.669Z" transform="translate(4.081 1.666)" fill="#fff"/>
+        <path id="Vector-2" data-name="Vector" d="M0,0H12V12H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

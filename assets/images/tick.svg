@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="89.333" height="89.333" viewBox="0 0 89.333 89.333">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#72BAA2"/>
+      <stop offset="1" stop-color="#7DC24C"/>
+    </linearGradient>
+  </defs>
+  <g id="vuesax_bold_tick-square" data-name="vuesax/bold/tick-square" transform="translate(-748 -252)">
+    <g id="tick-square" transform="translate(748 252)">
+      <path id="Vector" d="M52.818,0H21.626C8.077,0,0,8.077,0,21.626V52.781C0,66.367,8.077,74.444,21.626,74.444H52.781c13.549,0,21.626-8.077,21.626-21.626V21.626C74.444,8.077,66.367,0,52.818,0Zm2.2,28.661-21.1,21.1a2.786,2.786,0,0,1-3.946,0L19.43,39.232a2.79,2.79,0,0,1,3.946-3.946l8.561,8.561L51.069,24.716a2.79,2.79,0,1,1,3.946,3.946Z" transform="translate(7.444 7.444)" fill="url(#linear-gradient)"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H89.333V89.333H0Z" transform="translate(89.333 89.333) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

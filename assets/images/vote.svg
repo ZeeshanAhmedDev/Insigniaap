@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="22" viewBox="0 0 60 22">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5cc5c1"/>
+      <stop offset="1" stop-color="#1379b6"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_120" data-name="Group 120" transform="translate(-275 -314)">
+    <rect id="Rectangle_39" data-name="Rectangle 39" width="60" height="22" rx="11" transform="translate(275 314)" fill="url(#linear-gradient)"/>
+    <text id="Vote" transform="translate(296 328)" fill="#fff" font-size="9" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Vote</tspan></text>
+  </g>
+</svg>
